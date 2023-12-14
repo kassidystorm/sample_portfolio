@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+header {
+    background-color: rgb(56, 161, 151) ;
+    color: #fff;
+    text-align: center;
+    padding: 40px 0;
+}
+
+
+h2 {
+    color:rgb(13, 84, 143);
+}
+
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#about, #projects, #contact {
+    margin-bottom: 40px;
+}
+
+.project {
+    margin-bottom: 30px;
+}
+
+a {
+    color: #333;
+    text-decoration:underline;
+    transition: color 0.3s ease-in-out;
+}
+
+
+
+
+
+
